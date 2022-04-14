@@ -2,16 +2,15 @@
 <hr>
 
 
-# About me.
+<h3 align="left">About me</h3>
 <tr>
   <td valign="center">
     🌱 I am currently learning go.js and i build a SaaS.<br><br>
     🎯 My goal is to contribute to as many open source project as possible.<br><br>
     ✨ I love to create useful program that make life more easy.<br><br>
-    :
 </tr>
 
-<h3 align="left">How to reach me📫</h3>
+<h3 align="left">How to reach me</h3>
 <p align="left">
 <a href="https://twitter.com/diagodryson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="diagodryson" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/diagodryson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diagodryson" height="30" width="40" /></a>
