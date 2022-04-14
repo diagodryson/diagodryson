@@ -1,9 +1,8 @@
-<h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <B>IDRIS</B></h3>
+<h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <B>Diago Dryson</B></h3>
 <hr>
 
 
 # About me.
-<table>
 <tr>
   <td valign="center">
     🌱 I am currently learning go.js and i build a SaaS.<br><br>
@@ -11,7 +10,6 @@
     ✨ I love to create useful program that make life more easy.<br><br>
     :
 </tr>
-</table>
 
 <h3 align="left">How to reach me📫</h3>
 <p align="left">
