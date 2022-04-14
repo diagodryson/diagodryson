@@ -22,9 +22,5 @@
 
 <!--## My Recent Blogposts ✍️-->
 
-## &#x1f4c8; GitHub Stats
-<p><a href="https://www.buymeacoffee.com/diagodryson"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="diagodryson" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diagodryson&show_icons=true&locale=en&layout=compact" alt="diagodryson" /></p>
-
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diagodryson&show_icons=true&locale=en" alt="diagodryson" /></p>-->
+<!-- ## &#x1f4c8; GitHub Stats
+<p><a href="https://www.buymeacoffee.com/diagodryson"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="diagodryson" /></a></p><br><br>-->
