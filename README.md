@@ -7,7 +7,7 @@
   <td valign="center">
     🌱 I am currently learning go.js and i build a SaaS.<br><br>
     🎯 My goal is to contribute to as many open source project as possible.<br><br>
-    ✨ I love to create useful program that make life more easy.<br><br>
+    ✨ I love to create useful program that make life more easy.<br>
 </tr>
 
 <h3 align="left">How to reach me</h3>
