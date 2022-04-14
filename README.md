@@ -23,7 +23,10 @@
 <!--## My Recent Blogposts ✍️-->
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://www.buymeacoffee.com/diagodryson"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=olanetsoft&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
-<!--
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diagodryson&show_icons=true&locale=en&layout=compact" alt="diagodryson" /></p>
-!
+<p><a href="https://www.buymeacoffee.com/diagodryson"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="diagodryson" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diagodryson&show_icons=true&locale=en&layout=compact" alt="diagodryson" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diagodryson&show_icons=true&locale=en" alt="diagodryson" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diagodryson&" alt="diagodryson" /></p>
