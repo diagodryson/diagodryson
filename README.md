@@ -9,6 +9,10 @@
     🎯 My goal is to contribute to as many open source project as possible.<br><br>
     ✨ I love to create useful program that make life more easy.<br>
 </tr>
+<!--<a href="https://www.twitter.com/diagodryson" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/diagodryson?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/diagodryson" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/diagodryson?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>-->
 
 <h3 align="left">How to reach me</h3>
 <p align="left">
