@@ -1,6 +1,4 @@
-<h1 align="center"> Hi there! I'm <B>Diago Dryson</B></h1>
-<h3 align="center">A passionate Frontend developer from Switzerland</h3>
-
+![Project Image](diagodryson.gif)
 
 <h3 align="left">About me</h3>
 <tr>
