@@ -1,4 +1,4 @@
-![Project Image](banner.gif)
+![Project Image](bannerdd.gif)
 
 <h3 align="left">About me</h3>
 <tr>
